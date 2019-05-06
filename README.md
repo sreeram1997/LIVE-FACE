@@ -15,8 +15,4 @@ Recognition of face live from webcam
 > python face_rec_cv.py
 - After execution completed type following command
 > python face_det_cv.py
-- Volaa !!
 
-
-# Video 
-Watch Youtube video on link: https://youtu.be/zhaJdgAmnPE
