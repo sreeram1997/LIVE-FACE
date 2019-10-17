@@ -9,7 +9,7 @@ Recognition of face live from webcam
 - Clone entire repository
 - Goto folder in which cloning is done 
 > Create a folder named as "image" 
-> Your image folder should like..
+> Sample image folder be like..
 ![sc1](https://user-images.githubusercontent.com/36638657/44214919-d671a480-a18e-11e8-9382-8b3a2e2cea25.png)
 - Goto cmd/powershell type
 > python face_rec_cv.py
